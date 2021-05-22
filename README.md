@@ -1,0 +1,2 @@
+# Matlab_bp_classifier
+使用matlab构建的bp神经网络完成二分类问题
